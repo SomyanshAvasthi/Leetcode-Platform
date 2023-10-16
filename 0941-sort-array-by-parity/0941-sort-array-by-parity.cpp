@@ -1,16 +1,16 @@
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& nums) {
-        int e = nums.size() - 1;
-        int i = 0;
-        while (i <= e) {
-            if ((nums[i] & 1) == 1) {
-                swap(nums[i], nums[e]);
+        int e=nums.size()-1;
+        for(int i=0;i<=e;){
+            if((nums[i]&1)==1){
+                swap(nums[i],nums[e]);
                 e--;
-            } else {
+            }
+            else{
                 i++;
             }
         }
-        return nums; // You should return the sorted array.
+        return nums;
     }
 };
