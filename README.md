@@ -11,4 +11,8 @@ LeetCode is an online platform offering coding challenges and interview preparat
 | ------- |
 | [0180-consecutive-numbers](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
