@@ -15,4 +15,9 @@ LeetCode is an online platform offering coding challenges and interview preparat
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0009-palindrome-number) |
+| [1610-xor-operation-in-an-array](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/1610-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
