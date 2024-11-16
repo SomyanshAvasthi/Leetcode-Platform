@@ -20,4 +20,12 @@ LeetCode is an online platform offering coding challenges and interview preparat
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/1610-xor-operation-in-an-array) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
