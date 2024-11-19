@@ -24,8 +24,17 @@ LeetCode is an online platform offering coding challenges and interview preparat
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0001-two-sum) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## String
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SomyanshAvasthi/Leetcode_Practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
